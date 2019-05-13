@@ -12,7 +12,7 @@
     "淘宝客"
   ],
   "dependencies": {
-    "ali-topSdk": "git+ssh://git@github.com/tentechgroup/ali-topsdk.git#master"
+    "ali-topsdk": "git+ssh://git@github.com/tentechgroup/ali-topsdk.git#master"
   },
   "devDependencies": {
     "autod": "^3.0.0",
